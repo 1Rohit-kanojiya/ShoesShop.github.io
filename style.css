@@ -190,7 +190,7 @@ section{
   overflow: hidden;
   text-align: center;  
   color:rgb(236, 234, 234);
-  background:url(../images/bg.jpg) no-repeat center ;
+  background:url(bg.jpg) no-repeat center ;
   background-size: cover;
 }
 

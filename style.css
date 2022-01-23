@@ -190,8 +190,9 @@ section{
   overflow: hidden;
   text-align: center;  
   color:rgb(236, 234, 234);
-  background:url(bg.jpg) no-repeat center ;
+  background: no-repeat center ;
   background-size: cover;
+  /* url(bg.jpg) */
 }
 
 .container .fetur-product .imgs{
